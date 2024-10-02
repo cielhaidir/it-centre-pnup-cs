@@ -1,0 +1,7 @@
+2024/10/02-16:07:35.628 f84 Reusing MANIFEST D:\Kuliah\server\panraki-bot\.wwebjs_auth\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/10/02-16:07:35.629 f84 Recovering log #170
+2024/10/02-16:07:35.678 f84 Reusing old log D:\Kuliah\server\panraki-bot\.wwebjs_auth\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/000170.log 
+2024/10/02-16:07:36.874 f84 Level-0 table #175: started
+2024/10/02-16:07:36.884 f84 Level-0 table #175: 131009 bytes OK
+2024/10/02-16:07:36.886 f84 Delete type=0 #170
+2024/10/02-16:07:36.886 f84 Manual compaction at level-0 from '\x00@\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00A\x00\x00\x00' @ 0 : 0; will stop at (end)

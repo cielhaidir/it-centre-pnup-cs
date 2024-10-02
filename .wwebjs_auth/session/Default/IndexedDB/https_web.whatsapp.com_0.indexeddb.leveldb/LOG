@@ -1,0 +1,19 @@
+2024/10/02-16:08:09.493 1a00 Reusing MANIFEST D:\Kuliah\server\panraki-bot\.wwebjs_auth\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/10/02-16:08:09.494 1a00 Recovering log #174
+2024/10/02-16:08:09.494 1a00 Reusing old log D:\Kuliah\server\panraki-bot\.wwebjs_auth\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/000174.log 
+2024/10/02-16:08:11.335 1a00 Compacting 1@1 + 1@2 files
+2024/10/02-16:08:11.450 1a00 Generated table #177@1: 45899 keys, 1657977 bytes
+2024/10/02-16:08:11.450 1a00 Compacted 1@1 + 1@2 files => 1657977 bytes
+2024/10/02-16:08:11.452 1a00 compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/10/02-16:08:11.453 1a00 Delete type=2 #172
+2024/10/02-16:08:11.453 1a00 Delete type=2 #175
+2024/10/02-16:08:11.907 5f4 Level-0 table #179: started
+2024/10/02-16:08:11.912 5f4 Level-0 table #179: 15764 bytes OK
+2024/10/02-16:08:11.914 5f4 Delete type=0 #174
+2024/10/02-16:08:11.915 4d4c Manual compaction at level-0 from '\x00A\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00B\x00\x00\x00' @ 0 : 0; will stop at (end)
+2024/10/02-16:08:16.135 5f4 Compacting 1@1 + 1@2 files
+2024/10/02-16:08:17.212 5f4 Generated table #180@1: 45979 keys, 1660456 bytes
+2024/10/02-16:08:17.212 5f4 Compacted 1@1 + 1@2 files => 1660456 bytes
+2024/10/02-16:08:17.377 5f4 compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/10/02-16:08:17.378 5f4 Delete type=2 #177
+2024/10/02-16:08:17.378 5f4 Delete type=2 #179
