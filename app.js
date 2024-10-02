@@ -8,7 +8,7 @@ const { Client, LocalAuth, MessageMedia, Poll } = require("whatsapp-web.js");
 const qrcode = require("qrcode-terminal");
 
 const wwebVersion = "2.2412.54";
-const groupId = "120363327000342885@g.us";
+const groupId = "xxxxxx@g.us";
 
 const client = new Client({
   authStrategy: new LocalAuth(),
